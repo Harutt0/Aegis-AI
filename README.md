@@ -22,7 +22,7 @@ Clean Architecture: Developed with an Early Return pattern to ensure high perfor
 
 1. Installation
 
-  Clone the repository to your local machine
+  Clone the repository to your local machine:
   
   git clone https://github.com/Harutt0/Aegis-AI.git
   
@@ -30,13 +30,13 @@ Clean Architecture: Developed with an Early Return pattern to ensure high perfor
 
 2. Install Dependencies
 
-  Install the required data processing libraries
+  Install the required data processing libraries:
   
   pip install -r requirements.txt
 
 3. Run Analysis
 
-  Launch the security auditor
+  Launch the security auditor:
   
   python main.py
 
