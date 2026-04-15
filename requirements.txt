@@ -1,0 +1,33 @@
+🛠️ Technical Specifications
+Core Engine: High-performance entropy calculation engine based on Shannon's Information Theory for measuring cryptographic unpredictability.
+
+Dictionary Engine: Integrated lookup system that cross-references inputs against high-frequency leak databases (passwords.txt) using optimized I/O operations.
+
+Mathematical Logic: Specialized algorithms for Brute-Force ETA estimation, benchmarking against a standard of 10 billion guesses per second.
+
+re (Regex): Optimized regular expression engine for real-time character variety detection (Uppercase, Lowercase, Digits, and Symbols).
+
+Clean Code: Developed with an Early Return architecture for high readability and minimized logic complexity.
+
+Key Metrics:
+Entropy Score: Measured in bits to determine the mathematical complexity of the input.
+
+Pool Analysis: Dynamic evaluation of character set depth ($26$, $52$, $62$, or $94$ characters).
+
+Scalability: Engineered to process massive dictionary files without significant memory overhead.
+
+Compatibility: Fully optimized for Python 3.11+ 🐍
+
+🙏 Acknowledgements
+Cyber-Security Communities: Special thanks to the global open-source community for providing the fundamental frameworks and research papers that made this project possible.
+
+Cryptographic Research: Inspired by the NIST (National Institute of Standards and Technology) guidelines for password complexity and entropy estimation models.
+
+Python Developers: To the creators of pandas, scikit-learn, and the standard library modules for building an ecosystem that bridges the gap between raw data and actionable intelligence.
+
+Security Researchers: Dedicated to the white-hat hackers and researchers who tirelessly work to build a safer web for everyone.
+
+🛡️ Final Note
+Thank you for checking out AEGIS-AI! This tool was engineered to merge mathematical entropy with practical defense logic. If you find this tool useful for your security audits or research, feel free to leave a ⭐.
+
+Developed with passion by Harutt0 🚀
