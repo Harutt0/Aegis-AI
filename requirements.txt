@@ -1,5 +1,5 @@
 🛠️ Technical Specifications
-Core Engine: High-performance entropy calculation engine based on Shannon's Information Theory for measuring cryptographic unpredictability.
+Core Engine: High-performance entropy calculation engine based on Shannons Information Theory for measuring cryptographic unpredictability.
 
 Dictionary Engine: Integrated lookup system that cross-references inputs against high-frequency leak databases (passwords.txt) using optimized I/O operations.
 
